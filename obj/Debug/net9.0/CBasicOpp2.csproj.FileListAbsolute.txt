@@ -1,0 +1,14 @@
+C:\Users\arvid\OneDrive\CBasicOpp2\bin\Debug\net9.0\CBasicOpp2.exe
+C:\Users\arvid\OneDrive\CBasicOpp2\bin\Debug\net9.0\CBasicOpp2.deps.json
+C:\Users\arvid\OneDrive\CBasicOpp2\bin\Debug\net9.0\CBasicOpp2.runtimeconfig.json
+C:\Users\arvid\OneDrive\CBasicOpp2\bin\Debug\net9.0\CBasicOpp2.dll
+C:\Users\arvid\OneDrive\CBasicOpp2\bin\Debug\net9.0\CBasicOpp2.pdb
+C:\Users\arvid\OneDrive\CBasicOpp2\obj\Debug\net9.0\CBasicOpp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arvid\OneDrive\CBasicOpp2\obj\Debug\net9.0\CBasicOpp2.AssemblyInfoInputs.cache
+C:\Users\arvid\OneDrive\CBasicOpp2\obj\Debug\net9.0\CBasicOpp2.AssemblyInfo.cs
+C:\Users\arvid\OneDrive\CBasicOpp2\obj\Debug\net9.0\CBasicOpp2.csproj.CoreCompileInputs.cache
+C:\Users\arvid\OneDrive\CBasicOpp2\obj\Debug\net9.0\CBasicOpp2.dll
+C:\Users\arvid\OneDrive\CBasicOpp2\obj\Debug\net9.0\refint\CBasicOpp2.dll
+C:\Users\arvid\OneDrive\CBasicOpp2\obj\Debug\net9.0\CBasicOpp2.pdb
+C:\Users\arvid\OneDrive\CBasicOpp2\obj\Debug\net9.0\CBasicOpp2.genruntimeconfig.cache
+C:\Users\arvid\OneDrive\CBasicOpp2\obj\Debug\net9.0\ref\CBasicOpp2.dll
